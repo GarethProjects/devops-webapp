@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Gy6iFnuffeWxdDsSmJExBux97sBwM9+ojx1t8lbS1k9ZUKlJWMNxYhPbUXZbhMuEHGFfbmGl2xqim4gLlIvzg==",
+  "dgSpecHash": "a3OHKeTtozXPCfUrVdIQYZQXjQePLQKmfy3dOUMKNKWaNNmqz/JMOXSh2MypT7i+A6dAjRuj+r0ZpeYK6ndu8w==",
   "success": true,
-  "projectFilePath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+  "projectFilePath": "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/devopswebapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

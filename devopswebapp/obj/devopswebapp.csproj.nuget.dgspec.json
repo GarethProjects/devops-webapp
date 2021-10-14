@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {}
+    "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/devopswebapp.csproj": {}
   },
   "projects": {
-    "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
+    "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+        "projectUniqueName": "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/devopswebapp.csproj",
         "projectName": "devopswebapp",
-        "projectPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
-        "packagesPath": "C:\\Users\\theso\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\obj\\",
+        "projectPath": "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/devopswebapp.csproj",
+        "packagesPath": "/Users/gareth/.nuget/packages/",
+        "outputPath": "/Users/gareth/Downloads/devops-webapp 2/devopswebapp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\theso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gareth/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
